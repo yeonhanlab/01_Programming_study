@@ -52,3 +52,4 @@ for (var i = 0; i < text.length; i++) {
         result = result + 1;
     }
 }
+
